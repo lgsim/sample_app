@@ -1,0 +1,4 @@
+...
+
+Finished in 4.61 seconds
+3 examples, 0 failures
